@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "514079644073",
+    "firebase_url": "https://foreach-todo-1311b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "foreach-todo-1311b",
+    "storage_bucket": "foreach-todo-1311b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514079644073:android:c8e06c115b443f434b8cb8",
+        "android_client_info": {
+          "package_name": "com.example.tool_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514079644073-qr93vo5c2f2ma20nj3gheaac1o3u460o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEhjfQk3Ru2HswCVOoVJshiBLDCRqKxOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514079644073-qr93vo5c2f2ma20nj3gheaac1o3u460o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
